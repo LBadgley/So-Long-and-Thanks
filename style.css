@@ -1,0 +1,16 @@
+body{
+    background: #dbd8fc;
+}
+    h1 {
+        color: hsl(202, 100%, 53%);
+    }
+    .large-text {
+        font-size: 1.5em;
+
+    }
+    #main-heading {
+        text-decoration: underline;
+    }
+    h6{
+        font-size: 1.25em;
+    }
